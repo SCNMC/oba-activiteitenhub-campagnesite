@@ -1,0 +1,39 @@
+/* Yasser-uitgelichte activiteiten */
+.uitgelichte-activiteiten{
+  position: absolute;
+  width: 1440px;
+  height: 1199px;
+  left: 1px;
+  top: 1291px;
+  background-color: rgba(255, 0, 0, 0.05);
+  /*font-family: Avenir;*/ 
+  font-style: normal;
+}
+
+.Yasser-header{
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 49px;
+  text-align: center; 
+  color: #000000;
+}
+
+.Yasser-eerstehulp{
+  position: absolute;
+  width: 851px;
+  height: 275px;
+  left: 343px;
+  top: 1465px;
+  background: #FFFFFF;
+}
+
+.Yasser-innertexteerstehulp{
+  position: absolute;
+  width: 432px;
+  height: 72px;
+  left: 737px;
+  top: 1569px
+  
+}
