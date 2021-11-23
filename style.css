@@ -1,15 +1,12 @@
 /* Yasser-uitgelichte activiteiten */
 .uitgelichte-activiteiten{
-  position: absolute;
   width: 1440px;
   height: 1199px;
-  left: 1px;
-  top: 1291px;
   background-color: rgba(255, 0, 0, 0.05);
 }
 
 .Yas-header{
-  font-family: Avenir;
+  font-family:Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 36px;
@@ -18,21 +15,32 @@
   color: #000000;
 }
 
-/*.Yasser-eerstehulp{
-  position: absolute;
+.Yas-eerstehulp{
   width: 851px;
   height: 275px;
-  left: 343px;
-  top: 1465px;
-  background: #FFFFFF;
-}*/
+  background: #FFf;
+}
 
-/*.Yasser-innertexteerstehulp{
-  position: absolute;
-  width: 432px;
-  height: 72px;
-  left: 737px;
-  top: 1569px
-  
-}*/
-/* Yasser-end */
+.Yas-btnaanmelden{
+  font-size: 14px;
+  text-align: center;
+  width: 105px;
+  height: 39px;
+  border-radius: 4px;
+  background:#0087DC;
+  color: #FFf;
+}
+
+.Yas-btnlees{
+  text-align: center;
+  font-size: 14px;
+  width: 105px;
+  height: 39px;
+  font-size: 14px;
+  border-radius: 4px;
+  text-align: center;
+  background:#FFf;
+  color: red;
+
+}
+/* Yasser-end*/
