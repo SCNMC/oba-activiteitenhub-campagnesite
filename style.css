@@ -9,7 +9,7 @@
   background-color: rgba(255, 0, 0, 0.05);
 }
 
-.Yas-header{
+.Yas-header1{
   display: grid;
   grid-column: 5/9;
   grid-row: 1/2 ;
@@ -50,6 +50,13 @@
   text-align: center;
   background:#FFf;
   color: red;
+}
 
+.Yas-taalcafe{
+  grid-column: 2/11;
+  grid-row: 4/5 ;
+  width: 851px;
+  height: 310px;
+  background-color: #FFf;
 }
 /* Yasser-end*/
