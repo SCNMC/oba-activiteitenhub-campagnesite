@@ -1,11 +1,18 @@
 /* Yasser-uitgelichte activiteiten */
 .uitgelichte-activiteiten{
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(10, auto);
+   gap: 10px ;
   width: 1440px;
   height: 1199px;
   background-color: rgba(255, 0, 0, 0.05);
 }
 
 .Yas-header{
+  display: grid;
+  grid-column: 5/9;
+  grid-row: 1/2 ;
   font-family:Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -16,6 +23,8 @@
 }
 
 .Yas-eerstehulp{
+  grid-column: 3/12;
+  grid-row: 2/3;
   width: 851px;
   height: 275px;
   background: #FFf;
