@@ -8,7 +8,7 @@
   background-color: rgba(255, 0, 0, 0.05);
 }
 
-.Yas-header1{
+.Yas-headertitel{
   display: grid;
   grid-column: 5/9;
   grid-row: 1/2 ;
@@ -29,6 +29,26 @@
   background: #FFf;
 }
 
+.Yas-taalcafe{
+  grid-column: 2/11;
+  grid-row: 4/5 ;
+  width: 1080px;
+  height: 310px;
+  background-color: #FFf;
+}
+
+.Yas-oefenuur{
+  grid-column: 3/12;
+  grid-row: 6/7;
+  width: 1080px;
+  height: 310px;
+  background: #FFf;
+}
+
+/*.Yas-datum{
+  margin-left: .5em;
+}*/
+
 .Yas-btnaanmelden{
   font-size: 14px;
   text-align: center;
@@ -38,8 +58,14 @@
   background:#0087DC;
   color: #FFf;
 }
+
 .Yas-btnaanmelden > a:visited{
   color: #FFf;
+}
+
+.Yas-btnaanmelden:hover{
+  color: #00dc0b;
+  background: #84c6f0;
 }
 
 .Yas-btnlees{
@@ -58,11 +84,7 @@
   color: red;
 }
 
-.Yas-taalcafe{
-  grid-column: 2/11;
-  grid-row: 4/5 ;
-  width: 1080px;
-  height: 310px;
-  background-color: #FFf;
+.Yas-btnlees:hover{
+  background: rgb(250, 243, 243);
 }
 /* Yasser-end*/
