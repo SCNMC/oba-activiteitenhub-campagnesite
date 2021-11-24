@@ -38,6 +38,9 @@
   background:#0087DC;
   color: #FFf;
 }
+.Yas-btnaanmelden > a:visited{
+  color: #FFf;
+}
 
 .Yas-btnlees{
   text-align: center;
@@ -48,6 +51,10 @@
   border-radius: 4px;
   text-align: center;
   background:#FFf;
+  color: red;
+}
+
+.Yas-btnlees > a:visited {
   color: red;
 }
 
