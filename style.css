@@ -45,12 +45,13 @@
   background: #FFf;
 }
 
-/*.Yas-datum{
-  margin-left: .5em;
-}*/
+.btn-aanmeldeneerstehulp{
+  position: relative;
+  left: 0;
+  bottom:-2em;
+}
 
 .Yas-btnaanmelden{
-  position: absolute;
   font-size: 14px;
   text-align: center;
   width: 105px;
@@ -58,8 +59,7 @@
   border-radius: 4px;
   background:#0087DC;
   color: #FFf;
-
-
+  
 }
 
 .Yas-btnaanmelden > a:visited{
@@ -70,10 +70,13 @@
   background: #84c6f0;
 }
 
+.btn-aanmeldentaalcafe{
+  position: relative;
+  left:0;
+  bottom: -4.5em;
+}
 .Yas-btnlees{
-  position: absolute;
-  margin-left: 116px;
- /* margin-top: 20px;*/
+
   text-align: center;
   font-size: 14px;
   width: 105px;
