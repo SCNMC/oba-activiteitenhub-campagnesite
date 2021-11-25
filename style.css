@@ -50,6 +50,7 @@
 }*/
 
 .Yas-btnaanmelden{
+  position: absolute;
   font-size: 14px;
   text-align: center;
   width: 105px;
@@ -58,6 +59,7 @@
   background:#0087DC;
   color: #FFf;
 
+
 }
 
 .Yas-btnaanmelden > a:visited{
@@ -65,11 +67,13 @@
 }
 
 .Yas-btnaanmelden:hover{
-  color: #00dc0b;
   background: #84c6f0;
 }
 
 .Yas-btnlees{
+  position: absolute;
+  margin-left: 116px;
+ /* margin-top: 20px;*/
   text-align: center;
   font-size: 14px;
   width: 105px;
