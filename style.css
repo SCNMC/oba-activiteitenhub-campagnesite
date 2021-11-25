@@ -24,24 +24,24 @@
 .Yas-eerstehulp{
   grid-column: 3/12;
   grid-row: 2/3;
-  width: 1080px;
-  height: 310px;
+  width: 67.5em;
+  height: 19.375em;
   background: #FFf;
 }
 
 .Yas-taalcafe{
   grid-column: 2/11;
   grid-row: 4/5 ;
-  width: 1080px;
-  height: 310px;
+  width: 67.5em;
+  height: 19.375em;
   background-color: #FFf;
 }
 
 .Yas-oefenuur{
   grid-column: 3/12;
   grid-row: 6/7;
-  width: 1080px;
-  height: 310px;
+  width: 67.5em;
+  height: 19.375em;
   background: #FFf;
 }
 
@@ -52,7 +52,7 @@
 }
 
 .Yas-btnaanmelden{
-  font-size: 14px;
+  font-size: 1.17em;
   text-align: center;
   width: 105px;
   height: 39px;
@@ -78,7 +78,7 @@
 .Yas-btnlees{
 
   text-align: center;
-  font-size: 14px;
+  font-size: 1.17em;
   width: 105px;
   height: 39px;
   font-size: 14px;
