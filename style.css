@@ -21,6 +21,11 @@
   color: #000000;
 }
 
+.Yas-eerstehulptext, .Yas-onlintaalcafetext, .Yas-oefenuurtext{
+  font-size: 16px;
+  margin: 0;
+}
+
 .Yas-eerstehulp{
   grid-column: 3/12;
   grid-row: 2/3;
@@ -76,7 +81,6 @@
   bottom: -4.5em;
 }
 .Yas-btnlees{
-
   text-align: center;
   font-size: 1.17em;
   width: 105px;
