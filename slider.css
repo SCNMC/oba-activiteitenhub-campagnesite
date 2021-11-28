@@ -10,17 +10,11 @@
   padding: 20px;
 }
 .slider img {
-  width: 25em;
-  height: 20rem;
+  width: 65vw;
+  height: 50vw;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 1em;
   z-index: 5;
-}
-
-.slider img:hover {
-  transform: scale(1.1);
-
-  transition: 300ms linear;
 }
 
 .slider::-webkit-scrollbar {
@@ -32,37 +26,75 @@
   font-size: 3em;
   display: flex;
   justify-content: center;
-  color: rgb(8, 155, 240);
-  margin-top: -60px;
-  opacity: 0.98;
+  background-color: rgb(177, 177, 177);
+  margin-top: -52px;
+  opacity: 0.8;
+  border-radius: 14px;
 }
 
 .kind-image i {
   font-size: 3em;
   display: flex;
   justify-content: center;
-  color: rgb(8, 155, 240);
-  margin-top: -60px;
-  opacity: 0.98;
+  background-color: rgb(177, 177, 177);
+  margin-top: -52px;
+  opacity: 0.8;
+  border-radius: 14px;
 }
 
 .computer-image i {
   font-size: 3em;
   display: flex;
   justify-content: center;
-  color: rgb(0, 0, 0);
-  background-color:  rgb(177, 177, 177);;
+  background-color: rgb(177, 177, 177);
   margin-top: -52px;
   opacity: 0.7;
+  border-radius: 14px;
 }
 
 .reading-image i {
   font-size: 3em;
   display: flex;
   justify-content: center;
+  background-color: rgb(177, 177, 177);
   margin-top: -52px;
   opacity: 0.7;
   border-radius: 14px;
-  background-color: rgb(177, 177, 177);
-  max-width: 25rem;
+}
+
+/* image hover */
+
+.tablet-image:hover{
+    transform: scale(1.1);
+    transition: 300ms linear;
+}
+
+.kind-image:hover{
+    transform: scale(1.1);
+    transition:300ms linear;
+}
+.computer-image:hover{
+    transform: scale(1.1);
+    transition:300ms linear;
+}
+.reading-image:hover{
+    transform: scale(1.1);
+    transition:300ms linear;
+}
+
+    
+@media (min-width: 40rem){
+    .slider img{
+        width: 35vw;
+        height: 30vw;
+    }
+}
+
+@media (min-width: 60rem){
+    .slider img{
+        width: 25vw;
+        height: 20vw;
+
+    }
+
 }
