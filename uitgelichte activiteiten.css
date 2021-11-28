@@ -100,6 +100,10 @@
 }
 
 @media(Max-width:1100px) {
+  .Yas-img{
+    width: 75px;
+    height: 75px;
+  }
   .Yas-headertitel{
     color: #0087DC;
   }
@@ -116,6 +120,7 @@
     height: 19.375em;
     background: #FFf;
   }
+
   
   
 }
