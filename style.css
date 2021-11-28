@@ -22,7 +22,7 @@
 }
 
 .Yas-eerstehulptext, .Yas-onlintaalcafetext, .Yas-oefenuurtext{
-  font-size: 16px;
+  font-size: 1em;
   margin: 0;
 }
 
@@ -62,7 +62,7 @@
   width: 105px;
   height: 39px;
   border-radius: 4px;
-  background:#0087DC;
+  background-color:#0087DC ;
   color: #FFf;
 }
 
@@ -97,6 +97,9 @@
 
 .Yas-btnlees:hover{
   background: rgb(250, 243, 243);
+}
+@media (max widthe) {
+  
 }
 
 /* Yasser-end*/
