@@ -99,27 +99,43 @@
   background: rgb(250, 243, 243);
 }
 
-@media(Max-width:1100px) {
+@media(Max-width:1050px) {
   .Yas-img{
-    width: 75px;
-    height: 75px;
+    width: 300px;
+    height: 310px;
   }
-  .Yas-headertitel{
-    color: #0087DC;
-  }
+
   .uitgelichte-activiteiten{
     display: grid;
     grid-template-columns: repeat(5, 1fr) ;
-    grid-template-rows: repeat(5,auto);
+    grid-template-rows: repeat(7,auto);
+    width: 1000px; ;
+  }
+
+  .Yas-headertitel{
+    grid-column: 2/4;
+    grid-row: 1/2;
   }
 
   .Yas-eerstehulp{
     grid-column: 1/5;
     grid-row: 2/3;
-    width: 67.5em;
+    width: 61em;
     height: 19.375em;
     background: #FFf;
   }
+
+  .Yas-taalcafe{
+    grid-column:1/5 ;
+    grid-row: 4/5;
+    width: 61em;
+  }
+
+  .Yas-oefenuur{
+    grid-column:1/5 ;
+    grid-row: 6/7;
+  }
+
 
   
   
