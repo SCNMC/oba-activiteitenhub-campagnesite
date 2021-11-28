@@ -98,7 +98,25 @@
 .Yas-btnlees:hover{
   background: rgb(250, 243, 243);
 }
-@media (max widthe) {
+
+@media(Max-width:1100px) {
+  .Yas-headertitel{
+    color: #0087DC;
+  }
+  .uitgelichte-activiteiten{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr) ;
+    grid-template-rows: repeat(5,auto);
+  }
+
+  .Yas-eerstehulp{
+    grid-column: 1/5;
+    grid-row: 2/3;
+    width: 67.5em;
+    height: 19.375em;
+    background: #FFf;
+  }
+  
   
 }
 
