@@ -11,7 +11,7 @@
 }
 .slider img {
   width: 65vw;
-  height: 50vw;
+  height: 55vw;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 1em;
   z-index: 5;
@@ -22,79 +22,58 @@
 }
 
 /* icons */
-.tablet-image i {
+.slider i {
   font-size: 3em;
   display: flex;
   justify-content: center;
-  background-color: rgb(177, 177, 177);
-  margin-top: -52px;
-  opacity: 0.8;
+  align-items: center;
+  background-color: #ff0000;
+  color: #ffffff;
+  margin-top: -70px;
+  height: 67px;
+  opacity: 0.9;
   border-radius: 14px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
 }
 
-.kind-image i {
-  font-size: 3em;
-  display: flex;
-  justify-content: center;
-  background-color: rgb(177, 177, 177);
-  margin-top: -52px;
-  opacity: 0.8;
-  border-radius: 14px;
-}
-
-.computer-image i {
-  font-size: 3em;
-  display: flex;
-  justify-content: center;
-  background-color: rgb(177, 177, 177);
-  margin-top: -52px;
-  opacity: 0.7;
-  border-radius: 14px;
-}
-
-.reading-image i {
-  font-size: 3em;
-  display: flex;
-  justify-content: center;
-  background-color: rgb(177, 177, 177);
-  margin-top: -52px;
-  opacity: 0.7;
-  border-radius: 14px;
-}
 
 /* image hover */
 
-.tablet-image:hover{
-    transform: scale(1.1);
-    transition: 300ms linear;
+.tablet-image:hover {
+  transform: scale(1.1);
+  transition: 300ms linear;
 }
 
-.kind-image:hover{
-    transform: scale(1.1);
-    transition:300ms linear;
+.kind-image:hover {
+  transform: scale(1.1);
+  transition: 300ms linear;
 }
-.computer-image:hover{
-    transform: scale(1.1);
-    transition:300ms linear;
+.computer-image:hover {
+  transform: scale(1.1);
+  transition: 300ms linear;
 }
-.reading-image:hover{
-    transform: scale(1.1);
-    transition:300ms linear;
+.reading-image:hover {
+  transform: scale(1.1);
+  transition: 300ms linear;
 }
-
-    
-@media (min-width: 40rem){
-    .slider img{
-        width: 35vw;
-        height: 30vw;
-    }
+.music-image:hover {
+  transform: scale(1.1);
+  transition: 300ms linear;
 }
 
-@media (min-width: 60rem){
-    .slider img{
-        width: 25vw;
-        height: 20vw;
+/* media queries */
 
-    }
+@media (min-width: 40rem) {
+  .slider img {
+    width: 35vw;
+    height: 30vw;
+  }
+}
 
+@media (min-width: 60rem) {
+  .slider img {
+    width: 25vw;
+    height: 20vw;
+  }
 }
