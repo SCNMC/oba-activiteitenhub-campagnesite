@@ -154,7 +154,6 @@
     height: 100%;
   }
   .Yas-headertitel{
-    color: #0087DC;
     grid-column: 1/2;
     grid-row: 1/2;
     font-size:19px ;
