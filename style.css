@@ -105,7 +105,7 @@
   background: rgb(250, 243, 243);
 }
 
-@media(Max-width:1050px) {
+@media(Max-width:1024px) {
   .Yas-img{
     width: 300px;
     height: 310px;
@@ -115,7 +115,7 @@
     display: grid;
     grid-template-columns: repeat(5, 1fr) ;
     grid-template-rows: repeat(7,auto);
-    width: 1000px;
+    width: 1024px;
   }
 
   .Yas-headertitel{
