@@ -1,4 +1,8 @@
 /* Yasser-uitgelichte activiteiten */
+*{
+  margin: 0;
+  padding: 0;
+}
 .uitgelichte-activiteiten{
   display: grid;
   grid-template-columns: repeat(12, 1fr);
