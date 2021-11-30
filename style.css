@@ -27,6 +27,11 @@
   text-align: center; 
   color: #000000;
 }
+.Yas-headerlink{
+  font-size: 1.3em;
+  margin-left: 1em;
+
+}
 
 .Yas-eerstehulptext, .Yas-onlintaalcafetext, .Yas-oefenuurtext{
   font-size: 1em;
