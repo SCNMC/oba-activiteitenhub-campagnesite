@@ -1,7 +1,6 @@
 /* Yasser-uitgelichte activiteiten */
 *{
-  margin: 0;
-  padding: 0;
+  font-family: 'Avenir';
 }
 .uitgelichte-activiteiten{
   display: grid;
@@ -20,7 +19,7 @@
   display: grid;
   grid-column: 5/9;
   grid-row: 1/2 ;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family:'Avenir';
   font-style: normal;
   font-weight: 800;
   font-size: 36px;
