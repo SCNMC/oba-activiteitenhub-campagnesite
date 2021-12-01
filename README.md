@@ -4,9 +4,8 @@
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
-<!-- Voeg een mooie poster visual toe 📸 -->
 We moesten compagne website maken voor de activiteiten hub van Oba.
-
+![MacBook Pro 16 inch](https://user-images.githubusercontent.com/90189815/144242746-a306af5e-48d0-46ca-bc49-241672438897.png)
 
 ## Inhoudsopgave
 
@@ -27,7 +26,6 @@ We moesten compagne website maken voor de activiteiten hub van Oba.
 **Code Skills:**
 - 💀 HTML5
 - 🧍 CSS3
-- ⚽ JavaScript
 ## Installatie
 
 ## Gebruik
