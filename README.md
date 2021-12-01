@@ -19,7 +19,15 @@ We moesten compagne website maken voor de activiteiten hub van Oba.
   * [Licentie](#licentie)
 
 ## Kenmerken
+**Tools gebruikt:**
+- 💻 Visual Studio Code
+- 🖌️ Figma
+- ✍️ Pen & Papier
 
+**Code Skills:**
+- 💀 HTML5
+- 🧍 CSS3
+- ⚽ JavaScript
 ## Installatie
 
 ## Gebruik
