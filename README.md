@@ -5,6 +5,8 @@
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
 <!-- Voeg een mooie poster visual toe 📸 -->
+We moesten compagne website maken voor de activiteiten hub van Oba.
+
 
 ## Inhoudsopgave
 
