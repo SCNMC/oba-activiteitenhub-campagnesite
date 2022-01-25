@@ -14,12 +14,35 @@ Informatie verstrekt dmv tekst ondersteunen met iets extra
 De site herkenbaar maken door de huisstijl toe te passen
 Interacties herkenbaar maken
  
-Door deze problemen op te lossen hebben wij een makkelijke te bezoeken campagnewebsite gebouwd.
+Door deze problemen op te lossen hebben wij een makkelijke te bezoeken campagnewebsite gebouwd die ervoor zorgt informatie op een een simpele manier te verstrekken.
 
 
 ## 💡 Kenmerken
 
-Het was de bedoeling om de site toegangelijk te maken voornamelijk voor nt2's en digibeten. Mijn deel van deze site was de slider. Het doel van de slider was om op een duidelijke manier te weergeven welke actviviteiten te doen zijn bij de oba. De slider bestaat dus uit allemaal afbeeldingen van activiteiten. 
+Het was de bedoeling om de site toegangelijk te maken voornamelijk voor nt2's en digibeten. Het was voornamelijk belangrijk om de huisstijl aan te houden van de oba. Om dit gemakkelijk te maken hebben wij gebruik gemaakt van een styleguide. 
+De volgende kleuren waren cruciaal om de site een herkenbare kleur te geven:
+
+![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) `#FF0000`.
+
+![#FFF](https://via.placeholder.com/15/#FFF/000000?text=+) `#FFF`
+
+![#00000](https://via.placeholder.com/15/00000/000000?text=+) `#000000`
+
+Buttons kleur:
+
+![#0064c8](https://via.placeholder.com/15/0064c8/000000?text=+) `#0064c8`
+
+### Afbeeldingen
+
+Omdat we zo min mogelijk tekst wouden gebruiken hadden we hier iets in de plaats voor nodig. Door middel van het gebruik van afbeeldingen hopen wij informatie op een makkelijke manier te laten zien. Nt2's kunnen hierdoor makkelijk zien om wat voor soort informatie dit gaat. Op de campagnewebsite ging het om de activiteiten van de OBA. Zo zie je aan het begin van de pagina de sectie 'uitgelichte activiteiten' hiernaast is een afbeelding gezet ter ondersteuning van de tekst.
+De slider section was toegevoegd om een duidelijk beeld te geven van wat er precies allemaal te doen is bij de oba. Hiervoor zijn er allemaal afbeeldingen gebruik die laten zien wat voor actviteiten de oba organiseert. Denk hierbij aan:
+- Eerste hulp bij online
+- Verfen voor kinderen
+- voorlezen aan peuter/kleuters
+- muziekles
+- Hulp met een tablet
+
+Deze afbeeldingen geven duidelijk aan om wat het precies gaat, maar om dit te verduidelijken zijn er icons toegevoegd die als extra ondersteuning dienen voor de afbeeldingen. De icons zijn gemaakt in de huisstijl van de OBA.
 
 ### ✍️ Sketch tools:
 - Figma
