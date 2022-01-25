@@ -35,6 +35,7 @@ Buttons kleur:
 ### Afbeeldingen
 
 Omdat we zo min mogelijk tekst wouden gebruiken hadden we hier iets in de plaats voor nodig. Door middel van het gebruik van afbeeldingen hopen wij informatie op een makkelijke manier te laten zien. Nt2's kunnen hierdoor makkelijk zien om wat voor soort informatie dit gaat. Op de campagnewebsite ging het om de activiteiten van de OBA. Zo zie je aan het begin van de pagina de sectie 'uitgelichte activiteiten' hiernaast is een afbeelding gezet ter ondersteuning van de tekst.
+
 De slider section was toegevoegd om een duidelijk beeld te geven van wat er precies allemaal te doen is bij de oba. Hiervoor zijn er allemaal afbeeldingen gebruik die laten zien wat voor actviteiten de oba organiseert. Denk hierbij aan:
 - Eerste hulp bij online
 - Verfen voor kinderen
@@ -44,12 +45,20 @@ De slider section was toegevoegd om een duidelijk beeld te geven van wat er prec
 
 Deze afbeeldingen geven duidelijk aan om wat het precies gaat, maar om dit te verduidelijken zijn er icons toegevoegd die als extra ondersteuning dienen voor de afbeeldingen. De icons zijn gemaakt in de huisstijl van de OBA.
 
+### Overige kenmerken
+
+De section uitgelichte activiteiten is gemaakt om de gebruiker een snelle blik te geven op de activiteiten. Mocht de gebruiker al geïnteresseerd zijn kan hij/zij zich hier aanmelden. Door op de button te klikken met aanmelden zal de gebruiker naar de officiele site van de Oba gestuurd worden om vervolgens de stappen tot aanmeldingen te volgen. 
+Door de huidige omstandigen in wereld vonden wij het van belang om nt2's in te lichten over de huidige maatrelegen die momenteel gehanteerd worden. Daarom hebben we een button toegevoegd die de gebruiker naar de corona maatregelen van de OBA brengt. Hierdoor is de gebruiker geinformeerd op wat hij/zij moet doen wanneer er deelgenomen gaat worden in een activiteit.
+
 ### ✍️ Sketch tools:
 - Figma
 - Pen & papier
 
-### 🔎 Technieken/ methodes
 
+### 🔎 Technieken/ methodes
+- DLC
+- HTML
+- CSS
 
 ## Installatie
 
