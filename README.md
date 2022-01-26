@@ -39,8 +39,8 @@ Omdat we zo min mogelijk tekst wouden gebruiken hadden we hier iets in de plaats
 De slider section was toegevoegd om een duidelijk beeld te geven van wat er precies allemaal te doen is bij de oba. Hiervoor zijn er allemaal afbeeldingen gebruik die laten zien wat voor actviteiten de oba organiseert. Denk hierbij aan:
 - Eerste hulp bij online
 - Verfen voor kinderen
-- voorlezen aan peuter/kleuters
-- muziekles
+- Voorlezen aan peuter/kleuters
+- Muziekles
 - Hulp met een tablet
 
 Deze afbeeldingen geven duidelijk aan om wat het precies gaat, maar om dit te verduidelijken zijn er icons toegevoegd die als extra ondersteuning dienen voor de afbeeldingen. De icons zijn gemaakt in de huisstijl van de OBA.
