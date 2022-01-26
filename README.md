@@ -9,10 +9,10 @@ Een campagnesite bouwen voor de oba.
 ## 📖 Inhoud
 
 De OBA heeft een activiteit hub waar bezoekers de activiteiten kunnen zien die de oba organiseert. Denk hierbij bv aan taalcursussen, hulp bij computers en voorlezen aan peuters.kleuters.  De activiteiten hub is voor alle doelgroepen, maar voor deze opdracht was het belangrijk om nt2's en digibeten meer aandacht te geven. Voor deze doelgroep is het soms nog wat moeilijk om informatie te zoeken, het is moeilijk te begrijpen of ze kunnen lastig navigeren naar de gewenste informatie. Hiervoor moesten wij van voor de oba een campagne site gaan bouwen. Het doel hier van was om ervoor te zorgen dat de activiteinhub vaker bezocht zou worden, voornamelijk door nt2's en digibeten omdat die door hun beperkingen minder snel hier opzoek naar gaan. Door de campagnesite zo te bouwen dat het toegankelijk is voor deze doelgroep waardoor de activiteitenhub vaker bezocht zal worden was de aanleiding van deze opdracht. Problemen die hiebij opgelost moesten worden waren:
-Niet te veel tekst gebruiken
-Informatie verstrekt dmv tekst ondersteunen met iets extra
-De site herkenbaar maken door de huisstijl toe te passen
-Interacties herkenbaar maken
+- Niet te veel tekst gebruiken
+- Informatie verstrekt dmv tekst ondersteunen met iets extra
+- De site herkenbaar maken door de huisstijl toe te passen
+- Interacties herkenbaar maken
  
 Door deze problemen op te lossen hebben wij een makkelijke te bezoeken campagnewebsite gebouwd die ervoor zorgt informatie op een een simpele manier te verstrekken.
 
@@ -71,7 +71,7 @@ Door de huidige omstandigen in wereld vonden wij het van belang om nt2's in te l
 ## Installatie
 
 ## ✅ Gebruik
-
+Door op de link te klinken zult u gebracht worden naar de campagnewebsite van OBA. 
 ## Bronnen
 
 ## Licentie
