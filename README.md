@@ -44,18 +44,26 @@ De slider section was toegevoegd om een duidelijk beeld te geven van wat er prec
 - Hulp met een tablet
 
 Deze afbeeldingen geven duidelijk aan om wat het precies gaat, maar om dit te verduidelijken zijn er icons toegevoegd die als extra ondersteuning dienen voor de afbeeldingen. De icons zijn gemaakt in de huisstijl van de OBA.
+ ### icons slider:
+ 
+ <img width="1200" alt="Schermafbeelding 2022-01-26 om 18 22 24" src="https://user-images.githubusercontent.com/90189750/151214133-e077f932-21aa-4439-ab10-8a7365c50ad8.png">
 
-### Overige kenmerken
+### Overige kenmerken:
 
 De section uitgelichte activiteiten is gemaakt om de gebruiker een snelle blik te geven op de activiteiten. Mocht de gebruiker al geïnteresseerd zijn kan hij/zij zich hier aanmelden. Door op de button te klikken met aanmelden zal de gebruiker naar de officiele site van de Oba gestuurd worden om vervolgens de stappen tot aanmeldingen te volgen. 
 Door de huidige omstandigen in wereld vonden wij het van belang om nt2's in te lichten over de huidige maatrelegen die momenteel gehanteerd worden. Daarom hebben we een button toegevoegd die de gebruiker naar de corona maatregelen van de OBA brengt. Hierdoor is de gebruiker geinformeerd op wat hij/zij moet doen wanneer er deelgenomen gaat worden in een activiteit.
+
+### Uitgelichte activiteiten button:
+<img width="217" alt="Schermafbeelding 2022-01-26 om 18 26 01" src="https://user-images.githubusercontent.com/90189750/151215019-e370ccd5-98e1-4320-a899-c9bfdb2c4813.png">
+
+
 
 ### ✍️ Sketch tools:
 - Figma
 - Pen & papier
 
 
-### 🔎 Technieken/ methodes
+### 🔎 Technieken/ methodes:
 - DLC
 - HTML
 - CSS
